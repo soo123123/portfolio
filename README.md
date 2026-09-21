@@ -154,9 +154,40 @@ AI 기반 프로젝트와 개인 개발을 진행하고 있습니다.
 
 <br />
 
+## 4. 🤖 Local LLM Web Service
+
+> **학교 PC 서버 환경에서 Local LLM과 Backend / Frontend를 연동한 AI 서비스**
+
+- **분야** : Backend / AI / Infrastructure
+- **역할** : Backend 개발 / LLM 연동 / 서버 구성
+- **기술** : Java, Spring Boot, React, Local LLM, Nginx, REST API
+
+### 주요 구현
+
+- 학교 PC 환경에서 Local LLM 실행 환경 구성
+- Spring Boot Backend와 Local LLM API 연동
+- React Frontend와 Backend 연동
+- 사용자 입력 및 LLM 응답 처리
+- LLM 응답 텍스트 가공 후 Frontend 전달
+- Nginx 기반 Reverse Proxy 구성
+- 서버 및 Backend 서비스 간 요청 라우팅 구성
+
+### 프로젝트에서 경험한 것
+
+- Frontend → Backend → Local LLM으로 이어지는 데이터 흐름 구현
+- Backend와 LLM 간 API 통신 및 응답 처리
+- Nginx Reverse Proxy를 활용한 서버 요청 라우팅
+- 여러 서비스의 실행 환경과 통신 구조 구성
+- 제한된 학교 PC 서버 환경에서 서비스를 구성하고 운영하는 경험
+- AI 기능을 실제 Web 서비스 구조에 연결하는 과정 경험
+
+<br />
+
+---
+
 # 🚧 Projects in Progress
 
-## 4. 📚 AI 독서 학습 서비스
+## 5. 📚 AI 독서 학습 서비스
 
 > **캡스톤디자인 프로젝트**
 
@@ -177,7 +208,7 @@ AI를 활용하여 사용자의 독서와 학습 과정을 지원하는
 - Mobile Application 개발
 - Backend와 AI 기능 연동
 
-## 5. 📈 투자 포트폴리오 리밸런싱 AI Agent
+## 6. 📈 투자 포트폴리오 리밸런싱 AI Agent
 
 > **AI Agent 기반 투자 포트폴리오 분석 및 자동 리밸런싱 시스템**
 
