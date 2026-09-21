@@ -26,9 +26,14 @@ AI 기반 프로젝트와 개인 개발을 진행하고 있습니다.
 
 - **Language** : Java
 - **Framework** : Spring Boot
-- **Database** : MySQL
-- **Development** : REST API, HTTP Communication, DTO
+- **Development** : REST API, HTTP Communication, DTO, CRUD
 - **Build** : Gradle
+
+### Database
+
+- **DBMS** : MySQL
+- **Design** : ERD, 데이터베이스 설계, 정규화, 관계 설계
+- **SQL** : CRUD, 데이터 조회 및 조작
 
 ### Frontend
 
@@ -77,8 +82,6 @@ AI 기반 프로젝트와 개인 개발을 진행하고 있습니다.
 - CORS 및 Proxy 설정
 - 외부 API 연동
 
-- [GitHub Repository](TODO)
-
 <br />
 
 ---
@@ -94,30 +97,32 @@ AI 기반 프로젝트와 개인 개발을 진행하고 있습니다.
 ### 주요 수행
 
 - 요구사항 분석 및 기능 정의
-- 시스템 구조 설계
-- UML / 시스템 설계 문서 작성
-- 데이터베이스 설계
-- 객체 및 컴포넌트 간 관계 설계
-- Backend 기능 구현
-- API 설계 및 구현
-- 데이터베이스 연동 및 CRUD 기능 구현
-- 기능 테스트 및 오류 수정
+- Use Case 기반 기능 및 시스템 요구사항 구체화
+- 시스템 구조 및 컴포넌트 설계
+- UML을 활용한 시스템 모델링
+- ERD 기반 데이터베이스 설계
+- 엔티티 및 테이블 간 관계 정의
+- 데이터베이스 CRUD 기능 구현
+- 도메인 및 비즈니스 로직 설계
+- Backend 기능 및 API 구현
+- 설계 내용을 기반으로 기능 개발 및 테스트
 
 ### 프로젝트에서 경험한 것
 
 - 요구사항을 분석하여 시스템의 기능과 구조를 구체화하는 경험
-- 요구사항을 시스템 설계로 연결하는 과정 경험
+- 요구사항을 데이터베이스 구조로 연결하는 과정 경험
+- ERD를 활용하여 데이터와 엔티티 간 관계를 설계하는 경험
 - 도메인 및 비즈니스 로직의 책임을 구분하고 설계하는 경험
 - 컴포넌트 간 책임과 의존관계를 고려한 시스템 설계
 - UML을 활용하여 시스템의 구조와 동작을 모델링하는 경험
-- 설계한 시스템을 실제 개발 단계까지 연결하는 경험
-- 팀원과 설계 내용을 공유하고 의견을 조율하는 경험
+- 설계한 데이터베이스와 Backend를 연동하여 실제 기능을 구현하는 경험
+- 설계 내용을 문서화하고 팀원과 공유하는 경험
 
 <br />
 
 ---
 
-## 2. 🖥️ Linux Home Server
+## 3. 🖥️ Linux Home Server
 
 > **개인 서버 환경 구축 및 운영 프로젝트**
 
@@ -147,7 +152,7 @@ AI 기반 프로젝트와 개인 개발을 진행하고 있습니다.
 
 # 🚧 Projects in Progress
 
-## 3. 📚 AI 독서 학습 서비스
+## 4. 📚 AI 독서 학습 서비스
 
 > **캡스톤디자인 프로젝트**
 
@@ -168,7 +173,7 @@ AI를 활용하여 사용자의 독서와 학습 과정을 지원하는
 - Mobile Application 개발
 - Backend와 AI 기능 연동
 
-## 4. 📈 투자 포트폴리오 리밸런싱 AI Agent
+## 5. 📈 투자 포트폴리오 리밸런싱 AI Agent
 
 > **AI Agent 기반 투자 포트폴리오 분석 및 자동 리밸런싱 시스템**
 
@@ -225,11 +230,21 @@ AI를 활용하여 사용자의 독서와 학습 과정을 지원하는
 - Data Structure
 - Algorithm
 
-### AI
+### AI / ML
 
-- AI 기술의 Backend 서비스 적용
+- Machine Learning 기초
+- AI / ML Workflow
+- 데이터 전처리 및 학습 데이터 구성
+- 모델 학습 및 평가
+- AI 기술의 서비스 적용
+
+### AI Agent / Workflow
+
 - LLM 기반 서비스 구조
 - AI Agent Architecture
+- Agent Workflow 설계
+- 데이터 수집 → 분석 → 의사결정 → 실행 구조
+- AI Agent와 Backend 시스템 연동
 
 ### Development
 
