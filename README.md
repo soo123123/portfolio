@@ -71,6 +71,8 @@ AI 기반 프로젝트와 개인 개발을 진행하고 있습니다.
 - Spring Boot 기반 REST API 구현
 - React Frontend와 Backend 연동
 - MySQL 기반 데이터 관리
+- 회원가입 및 로그인 기능 구현
+- JWT 기반 사용자 인증 및 인가
 - Controller / DTO 구조 구현
 - LLM API 연동
 
@@ -79,6 +81,8 @@ AI 기반 프로젝트와 개인 개발을 진행하고 있습니다.
 - Frontend와 Backend 간 HTTP 통신
 - JSON 기반 API 요청 및 응답 처리
 - Spring Boot Controller 및 DTO 설계
+- 회원 인증 및 사용자 권한 처리
+- JWT 기반 인증 흐름 구현
 - CORS 및 Proxy 설정
 - 외부 API 연동
 
