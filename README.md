@@ -154,6 +154,8 @@ AI 기반 프로젝트와 개인 개발을 진행하고 있습니다.
 
 <br />
 
+---
+
 ## 4. 🤖 Local LLM Web Service
 
 > **학교 PC 서버 환경에서 Local LLM과 Backend / Frontend를 연동한 AI 서비스**
