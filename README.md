@@ -243,4 +243,4 @@ AI를 활용하여 사용자의 독서와 학습 과정을 지원하는
 # 📞 Contact
 
 - **Email** : yhs70018444@gmail.com
-- **GitHub** : - [![GitHub](https://img.shields.io/badge/GitHub-soo123123-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/soo123123)
+- **GitHub** : [![GitHub](https://img.shields.io/badge/GitHub-soo123123-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/soo123123)
